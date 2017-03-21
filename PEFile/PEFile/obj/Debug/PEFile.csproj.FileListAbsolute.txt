@@ -1,0 +1,12 @@
+D:\Programs\PEFile\PEFile\bin\Debug\PEFile.exe.config
+D:\Programs\PEFile\PEFile\bin\Debug\PEFile.exe
+D:\Programs\PEFile\PEFile\bin\Debug\PEFile.pdb
+D:\Programs\PEFile\PEFile\obj\Debug\PEFile.exe
+D:\Programs\PEFile\PEFile\obj\Debug\PEFile.pdb
+D:\Programs\PEFile\PEFile\obj\Debug\PEFile.csprojResolveAssemblyReference.cache
+C:\Users\v-bedong\Desktop\PEFile\PEFile\bin\Debug\PEFile.exe.config
+C:\Users\v-bedong\Desktop\PEFile\PEFile\obj\Debug\PEFile.exe
+C:\Users\v-bedong\Desktop\PEFile\PEFile\obj\Debug\PEFile.pdb
+C:\Users\v-bedong\Desktop\PEFile\PEFile\bin\Debug\PEFile.exe
+C:\Users\v-bedong\Desktop\PEFile\PEFile\bin\Debug\PEFile.pdb
+C:\Users\v-bedong\Desktop\PEFile\PEFile\obj\Debug\PEFile.csprojResolveAssemblyReference.cache
